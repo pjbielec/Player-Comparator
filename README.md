@@ -1,1 +1,1 @@
-# Player-Comparator
+Comparing stats of two players
